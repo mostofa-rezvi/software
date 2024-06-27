@@ -1,0 +1,15 @@
+- hospital management system design mind map in java
+- hospital management system design 
+- hospital management system design in java
+- 
+
+1.
+https://skill-lync.com/student-projects/project-design-a-hospital-management-system-4
+
+2.
+https://syndicode.com/blog/how-to-build-a-hospital-management-software/
+
+3.
+https://www.researchgate.net/publication/332174314_Design_and_Implementation_of_Hospital_Management_System_Using_Java
+
+4.
